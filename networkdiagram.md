@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Network System</title>
+    <style>
+        h1 {text-align: center;}
+        div {text-align: center;}
+    </style>
+</head>
+<body>
+<h1>Basics on LAN Networks</h1>
+<div>
+    <img src="network_diagram.png" width="848" height="480">
+    <p>Figure above is a diagram of a LAN network</p>
+
+    <h3>Click for more information below</h3>
+        <p><a href="/Pages/server.html">1. Server</a></p>
+        <p><a href="/Pages/modem.html">2. Modem</a></p>
+        <p><a href="/Pages/switch.html">3. Switch </a></p>
+        <p><a href="/Pages/wirelessrouter.html">4. Wireless Router </a></p>
+        <p><a href="html_images.asp">5. Laptop</a></p>
+        <p><a href="html_images.asp">6. Computer</a></p>
+        <p><a href="/css/default.asp">7. Phone</a></p>
+        <p><a href="html_images.asp">8. Printer</a></p>
+        <p><a href="/css/default.asp">9. Firewall</a></p>
+        <p><a href="html_images.asp">10. Internet</a></p>
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Network System</title>
+    <style>
+        h1 {text-align: center;}
+        div {text-align: center;}
+    </style>
+</head>
+<body>
+<h1>Basics on LAN Networks</h1>
+<div>
+    <img src="network_diagram.png" width="848" height="480">
+    <p>Figure above is a diagram of a LAN network</p>
+
+    <h3>Click for more information below</h3>
+        <p><a href="/Pages/server.html">1. Server</a></p>
+        <p><a href="/Pages/modem.html">2. Modem</a></p>
+        <p><a href="/Pages/switch.html">3. Switch </a></p>
+        <p><a href="/Pages/wirelessrouter.html">4. Wireless Router </a></p>
+        <p><a href="html_images.asp">5. Laptop</a></p>
+        <p><a href="html_images.asp">6. Computer</a></p>
+        <p><a href="/css/default.asp">7. Phone</a></p>
+        <p><a href="html_images.asp">8. Printer</a></p>
+        <p><a href="/css/default.asp">9. Firewall</a></p>
+        <p><a href="html_images.asp">10. Internet</a></p>
+</div>
+
+</body>
+</html>
+
