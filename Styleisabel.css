@@ -1,0 +1,75 @@
+/*mystyle.csss*/
+/*css staands of Casscade Stylesheeetss*/
+/*modifies visual properties */
+h1{
+    /*all the properties for all h1s*/
+    color: darkred;
+    font-family: sans-serif;
+    font-size: xxx-large;
+    position: center;
+    text-align: center;
+}
+body{
+    background-color: #580303;
+}
+div {
+    /*display: inline-block;*/
+    /*border: 2px solid indianred;*/
+    /*padding: 20px;*/
+    /*margin: 50px;*/
+    /*padding is the inner space while margin is in external spacee*/
+    /*padding goes in top, right, bottom, left but if you use one number it will apply tto all*/
+}
+.title{
+    text-align: center
+}
+
+#image{
+    position: relative;
+    top: 400px;
+}
+
+.whiteblock{
+    width: 2000px;
+    height: 100px;
+    background-color: white;
+    top: 0px;
+    position: relative;
+;
+}
+
+.questions{
+    font-family: sans-serif;
+    font-size: xx-large;
+    color:black;
+}
+.secret{
+    font-family: sans-serif;
+    font-size: xxx-large;
+    color: #580303;
+}
+
+#hidingblock{
+    background-color:#580303 ;
+    width: 720px;
+    height: 920px;
+    position: fixed;
+    top: 400px;
+}
+
+
+/*stop mark means classes*/
+/*.primary-info{*/
+/*    background-color: bisque;*/
+/*}*/
+/*.secondary-info{*/
+/*    background-color: coral;*/
+/*}*/
+
+/*id are with #*/
+
+/*#monkeys{*/
+/*    font-size: medium;*/
+/*    font-weight: bold;*/
+
+/*}*/
